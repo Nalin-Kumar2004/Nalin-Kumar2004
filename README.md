@@ -41,9 +41,10 @@ Here are some ideas to get you started:
 - 🔗 [Video Platform Backend (YouTube-like clone)](https://github.com/Nalin-Kumar2004/video-platform-user-backend)  
   Modular backend with auth, session handling, JWT, uploads via Multer + Cloudinary
 
-- 🔗 [Full Stack Blog Platform](https://github.com/Nalin-Kumar2004/react-appwrite-blog-app)  
+- 🔗 [Full Stack Blog Platform](https://react-appwrite-blog-app.vercel.app/)  
   Appwrite-powered blog system with image uploads, rich-text, role-based routing
 
+- 🔗 [Lost And Found Website](https://lost-and-found-kappa-ivory.vercel.app/)
 ---
 
 ### 🏆 Achievements
