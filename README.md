@@ -45,8 +45,8 @@ Here are some ideas to get you started:
   Appwrite-powered blog system with image uploads, rich-text, role-based routing
 
 - 🔗 [Lost And Found Website](https://lost-and-found-kappa-ivory.vercel.app/)
+-   A Lost and Found platform for college built with MERN stack
 ---
-
 ### 🏆 Achievements
 - 💪 Solved 875+ DSA Problems across major platforms
 - 🚀 Global Rank **5696 / 38,042** in Codeforces Round 968 (Div. 2)
